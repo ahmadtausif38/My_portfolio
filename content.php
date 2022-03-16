@@ -1,0 +1,3 @@
+<div id='intro'>
+					Hi, I am Tausif Ahmad from samastipur,Bihar.Currently I am pursuing Engineering specialized in Computer Science (CSE) from Bakhtiyarpur College of Engineering, Patna,Bihar.I have completed my Intermediate from St. Xavier's Public School, Samastipur and secured 76.2% and Matriculation from Same school and secured 95%.Comming to my technical skills, I have done training in FullStack Web Devlopment in which i have learn about front end and back end technology.Learning these technology helps me to build my personal project which is an E-commerce website. I know Programming languages like C,C++ and Python.
+					</div>
